@@ -11,6 +11,10 @@ This project houses the talk NiT gave at the 2019 AISES National Conference in M
 
 You can view the slides here: [https://aisesnc2019.netlify.com](https://aisesnc2019.netlify.com)
 
+## Status
+
+Unmaintained
+
 ## Code of Conduct
 
 The code of conduct governs interactions in this repository: [CODE_OF_CONDUCT](CODE_OF_CONDUCT)
