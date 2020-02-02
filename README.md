@@ -29,6 +29,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/csutherl"><img src="https://avatars2.githubusercontent.com/u/2897567?v=4" width="100px;" alt=""/><br /><sub><b>Coty Sutherland</b></sub></a><br /><a href="https://github.com/nativesintech/aisesnc2019.netlify.com/commits?author=csutherl" title="Code">💻</a></td>
+    <td align="center"><a href="https://arecvlohe.github.io/simple-portfolio/"><img src="https://avatars3.githubusercontent.com/u/9747933?v=4" width="100px;" alt=""/><br /><sub><b>Adam Recvlohe</b></sub></a><br /><a href="https://github.com/nativesintech/aisesnc2019.netlify.com/commits?author=arecvlohe" title="Code">💻</a> <a href="https://github.com/nativesintech/aisesnc2019.netlify.com/commits?author=arecvlohe" title="Documentation">📖</a></td>
   </tr>
 </table>
 
